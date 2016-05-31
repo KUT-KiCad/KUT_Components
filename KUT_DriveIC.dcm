@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACPL-244
+D Avago ACPL-244 AC Input-Multi-Channel PhotoCoupler
+K PhotoCoupler ACPL-244 
+$ENDCMP
+#
+$CMP AL9901S16
+D UNIVERSAL HIGH VOLTAGE LED DRIVER
+K LED DRIVER
+$ENDCMP
+#
+$CMP CL6807
+D 35V 1A LED driver with internal switch
+K LED driver
+$ENDCMP
+#
+$CMP TB6643KQ
+D TOSHIBA TB6643KQ MotorDirver 50V 4.5A
+K TB6643KQ MotorDirver 
+$ENDCMP
+#
+$CMP TLP621
+D TOSHIBA TLP621 PhotoCoupler
+K TLP621 PhotoCoupler
+$ENDCMP
+#
+$CMP TLP621-2
+D TOSHIBA TLP621-2 2port PhotoCoupler
+K TLP621-2 PhotoCoupler
+$ENDCMP
+#
+#End Doc Library

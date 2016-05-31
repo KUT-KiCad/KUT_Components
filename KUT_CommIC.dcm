@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Bluetooth_Module
+D Akiduki Module
+$ENDCMP
+#
+$CMP MCP2004
+D Microchip MCP2004 LIN Transceiver
+K MCP2004 LIN 
+$ENDCMP
+#
+#End Doc Library

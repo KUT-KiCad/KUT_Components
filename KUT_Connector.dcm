@@ -1,0 +1,68 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KRC_Conn2_PowerIn
+D HIROSE DF22L-2P RED MAX20A
+K HIROSE DF22L RED 
+$ENDCMP
+#
+$CMP KRC_Conn2_PowerOut
+D HIROSE DF22R-2P Black MAX20A
+K HIROSE DF22R BLACK 
+$ENDCMP
+#
+$CMP KRC_Conn3_SIG
+D KUTRobotClub 3pole Connector HIROSE DF1E(C)-3P-2.5DS(A)
+K HIROSE DF1E 3pole
+$ENDCMP
+#
+$CMP KRC_Conn3_Solenoid
+D KUTRobotClub 3pole Connector HIROSE DF1E(C)-3P-2.5DS(A)
+K HIROSE DF1E 3pole
+$ENDCMP
+#
+$CMP KRC_Conn4_CAN
+D KUTRobotClub 4pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 4pole
+$ENDCMP
+#
+$CMP KRC_Conn4_SIG
+D KUTRobotClub 4pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 4pole
+$ENDCMP
+#
+$CMP KRC_Conn4_UART_1
+D KUTRobotClub 4pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 4pole
+$ENDCMP
+#
+$CMP KRC_Conn4_UART_2
+D KUTRobotClub 4pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 4pole
+$ENDCMP
+#
+$CMP KRC_Conn5_HoleIC
+D KUTRobotClub 5pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 5pole
+$ENDCMP
+#
+$CMP KRC_Conn5_RE
+D KUTRobotClub 5pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 5pole
+$ENDCMP
+#
+$CMP KRC_Conn5_SIG
+D KUTRobotClub 5pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 5pole
+$ENDCMP
+#
+$CMP KRC_PSoCWriter
+D KUTRobotClub 5pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 5pole
+$ENDCMP
+#
+$CMP KRC_UARTModule
+D KUTRobotClub 5pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 5pole
+$ENDCMP
+#
+#End Doc Library

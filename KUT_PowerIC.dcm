@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AZ1086H
+D BCD AZ1086H-xx Low Dropout Regulator 1.5A
+K AZ1086H Regulator 1.5A
+$ENDCMP
+#
+$CMP LMR14050
+D TI LMR14005 DCDCConverter MAX 4Vto40V 5A
+K TI LMR14005 DCDCConverter
+$ENDCMP
+#
+$CMP TA48Mxx
+D TOSHIBA TA48Mxx Regulator Input29V MAX0.5A
+K TA48Mxx Regulator
+$ENDCMP
+#
+$CMP TL431
+D Precision Programmable Reference
+$ENDCMP
+#
+#End Doc Library

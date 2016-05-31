@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KIA75S358F
+D Single Voltage Comparator
+K Amp
+$ENDCMP
+#
+$CMP LM393
+D Dual Voltage Comparator
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP OPA334
+D Single Voltage Comparator
+K Amp
+$ENDCMP
+#
+#End Doc Library

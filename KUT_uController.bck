@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY8C3xxxAXI-xxx
+D CY8C3xxxAXI Series
+K PSoC3 , 100pin
+$ENDCMP
+#
+$CMP CY8CKIT-059_Target
+D PSoC 5LP Prototyping Kit
+K PSoC 5LP, CY8C5888LTI-LP097
+$ENDCMP
+#
+#End Doc Library
