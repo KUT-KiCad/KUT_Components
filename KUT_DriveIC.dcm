@@ -15,6 +15,11 @@ D 35V 1A LED driver with internal switch
 K LED driver
 $ENDCMP
 #
+$CMP LV8760T
+D ON Semiconductor Forward/Reverse H-bridge Driver
+K H-bridge Motor Driver
+$ENDCMP
+#
 $CMP TB6643KQ
 D TOSHIBA TB6643KQ MotorDirver 50V 4.5A
 K TB6643KQ MotorDirver 
