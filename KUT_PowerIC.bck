@@ -10,9 +10,18 @@ D TI LMR14005 DCDCConverter MAX 4Vto40V 5A
 K TI LMR14005 DCDCConverter
 $ENDCMP
 #
+$CMP NJM2845
+D JRC NJM2845DL1-xx Regulator INPUT14V MAX0.8A
+K NJM2845 Regulator
+$ENDCMP
+#
 $CMP TA48Mxx
 D TOSHIBA TA48Mxx Regulator Input29V MAX0.5A
 K TA48Mxx Regulator
+$ENDCMP
+#
+$CMP TL431
+D Precision Programmable Reference
 $ENDCMP
 #
 #End Doc Library
