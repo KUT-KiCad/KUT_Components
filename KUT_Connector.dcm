@@ -25,6 +25,11 @@ D KUTRobotClub 4pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
 K HIROSE DF1E 4pole
 $ENDCMP
 #
+$CMP KRC_Conn4_General
+D KUTRobotClub 4pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
+K HIROSE DF1E 4pole
+$ENDCMP
+#
 $CMP KRC_Conn4_SIG
 D KUTRobotClub 4pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
 K HIROSE DF1E 4pole
