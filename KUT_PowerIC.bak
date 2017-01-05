@@ -38,6 +38,21 @@ X SW 8 550 250 100 L 50 50 1 1 E
 ENDDRAW
 ENDDEF
 #
+# LD1086
+#
+DEF LD1086 VR 0 40 Y Y 1 F N
+F0 "VR" 0 400 60 H V C CNN
+F1 "LD1086" 0 300 60 H V C CNN
+F2 "KUT_Device:DPAK" 0 -400 60 H I C CNN
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/53/db/00/58/09/98/4b/36/CD00001884.pdf/files/CD00001884.pdf/jcr:content/translations/en.CD00001884.pdf" 0 -500 60 H I C CNN
+DRAW
+S 300 -200 -300 200 0 1 0 f
+X GND 1 0 -300 100 U 50 50 1 1 W
+X Vout 2 400 100 100 L 50 50 1 1 w
+X Vin 3 -400 100 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # LMR14050
 #
 DEF LMR14050 U 0 40 Y Y 1 F N
