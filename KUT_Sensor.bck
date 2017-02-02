@@ -26,4 +26,9 @@ D MPU-9250 DIP(from strawberry-linux)
 K 9degree , Gyro , Acceleration , Geomagnetism
 $ENDCMP
 #
+$CMP MPU-9250_DIP
+D MPU-9250 DIP(from strawberry-linux)
+K 9degree , Gyro , Acceleration , Geomagnetism
+$ENDCMP
+#
 #End Doc Library

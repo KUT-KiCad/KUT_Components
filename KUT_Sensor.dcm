@@ -21,7 +21,7 @@ D High Side Current Monitor
 K High Side Current Monitor
 $ENDCMP
 #
-$CMP MPU-9250
+$CMP MPU-9250_DIP
 D MPU-9250 DIP(from strawberry-linux)
 K 9degree , Gyro , Acceleration , Geomagnetism
 $ENDCMP
