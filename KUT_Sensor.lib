@@ -196,6 +196,29 @@ X Vcc 3 100 300 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
+# LPS22HB_Module
+#
+DEF LPS22HB_Module U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C CNN
+F1 "LPS22HB_Module" 0 -300 60 H V C CNN
+F2 "KUT_Sensor:Strawberry-Linux_Module_8P" -100 200 60 H I C CNN
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bf/c1/4f/23/61/17/44/8a/DM00140895.pdf/files/DM00140895.pdf/jcr:content/translations/en.DM00140895.pdf" 0 300 60 H I C CNN
+F4 "https://strawberry-linux.com/catalog/items?code=12122" 100 400 60 H I C CNN "製品ページ"
+DRAW
+C 0 0 50 0 1 0 F
+S -400 250 400 -250 0 1 0 f
+S 200 50 300 -50 0 1 0 F
+X GND 1 -600 -150 200 R 50 50 1 1 W
+X SDA 2 -600 -50 200 R 50 50 1 1 B
+X SCL 3 -600 50 200 R 50 50 1 1 B
+X VDD 4 -600 150 200 R 50 50 1 1 W
+X SA0 5 600 -150 200 L 50 50 1 1 P
+X INT_DRDY 6 600 -50 200 L 50 50 1 1 B
+X CS 7 600 50 200 L 50 50 1 1 P
+X VDD_IO 8 600 150 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # LSM9DS0_Module
 #
 DEF LSM9DS0_Module U 0 40 Y Y 1 F N
