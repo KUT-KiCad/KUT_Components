@@ -65,9 +65,4 @@ D KUTRobotClub 5pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
 K HIROSE DF1E 5pole
 $ENDCMP
 #
-$CMP STLINK_SWD
-D KUTRobotClub 5pole General Connector HIROSE DF1E(C)-4P-2.5DS(A)
-K HIROSE DF1E 5pole
-$ENDCMP
-#
 #End Doc Library
