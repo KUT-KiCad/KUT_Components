@@ -31,4 +31,9 @@ D MPU-9250 DIP(from strawberry-linux)
 K 9degree , Gyro , Acceleration , Geomagnetism
 $ENDCMP
 #
+$CMP Sparkfun_HX711_LoadCellAmp
+D Sparkfun HX711 LoadcellAmp module (A/D Converter)
+K sparkfun hx711 loadcell ad
+$ENDCMP
+#
 #End Doc Library
